@@ -23,8 +23,6 @@ FontAwesome: Icons for better UI.
 Google Fonts: Montserrat for a clean, modern look.
 
 Installation
-Clone the repository:
-git clone https://github.com/yourusername/furniture-website.git
 Open index.html in a browser to view the website.
 Customize the style.css file as needed.
 
